@@ -1,4 +1,4 @@
-# 🎮 Tacticore - Plataforma de Análisis de Partidas de Counter-Strike
+# 🎮 PFI-2025 - Plataforma de Análisis de Partidas de Counter-Strike
 
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-green?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
@@ -8,7 +8,7 @@
 
 ## 📋 Descripción del Proyecto
 
-**Tacticore** es una plataforma completa para el análisis de partidas de Counter-Strike que permite a los jugadores:
+**PFI-2025** es una plataforma completa para el análisis de partidas de Counter-Strike que permite a los jugadores:
 
 - 📤 **Subir archivos DEM** (.dem) de partidas de CS
 - 🎥 **Asociar videos** de gameplay para análisis visual
@@ -42,7 +42,7 @@
 ## 📁 Estructura del Proyecto
 
 ```
-tesis/
+PFI-2025/
 ├── 📁 tacticore-fe-c3/           # Frontend Next.js (repo independiente)
 │   ├── 📁 app/                   # Páginas de Next.js 13+
 │   ├── 📁 components/            # Componentes React
