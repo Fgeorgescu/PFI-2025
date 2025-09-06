@@ -18,6 +18,7 @@ build/
 # Subrepositories (repositorios independientes)
 tacticore-backend/
 tacticore-fe-c3/
+Tacticore/
 
 # Logs
 npm-debug.log*
