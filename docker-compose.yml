@@ -40,6 +40,7 @@ services:
       - SERVER_PORT=8080
     volumes:
       - ./tacticore-backend:/app
+      - ./demos-jsons:/app/demos-jsons
       - maven_cache:/root/.m2
     networks:
       - tacticore-network
