@@ -19,6 +19,7 @@ build/
 tacticore-backend/
 tacticore-fe-c3/
 Tacticore/
+tacticore-terraform/
 
 # Logs
 npm-debug.log*
